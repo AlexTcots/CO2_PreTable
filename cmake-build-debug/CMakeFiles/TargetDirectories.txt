@@ -1,0 +1,3 @@
+/cygdrive/c/Users/alext/CLionProjects/CO2_PreTable/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/alext/CLionProjects/CO2_PreTable/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/alext/CLionProjects/CO2_PreTable/cmake-build-debug/CMakeFiles/CO2_PreTable.dir

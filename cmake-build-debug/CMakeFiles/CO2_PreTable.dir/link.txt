@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/CO2_PreTable.dir/main.cpp.o -o CO2_PreTable.exe -Wl,--out-implib,libCO2_PreTable.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
